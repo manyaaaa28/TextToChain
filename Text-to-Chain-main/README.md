@@ -389,5 +389,5 @@ Set your Twilio webhook to: `https://<EC2-IP-WITH-DASHES>.sslip.io/sms/webhook`
 [MIT](LICENSE)
 
 ---
-Built with love for ETHglobal 🤍
+Built with love for AM HACKS 2.0 🤍
 Built for the next billion: no smartphone, no app, no MetaMask. Just SMS.

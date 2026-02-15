@@ -19,12 +19,12 @@ document.addEventListener("DOMContentLoaded", () => {
     path.style.strokeDashoffset = pathLength;
 
     gsap.to(path, {
-      strokeDashoffset: 0,
+      strokeDashoffset: pathLength * 0.1,
       ease: "none",
       scrollTrigger: {
         trigger: ".spotlight",
         start: "top top",
-        end: "bottom bottom",
+        end: "bottom 90%",
         scrub: 2,
       },
     });
